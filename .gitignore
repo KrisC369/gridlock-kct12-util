@@ -1,1 +1,13 @@
-target/
+target/*
+nb-configuration.xml
+
+/.settings/
+.classpath
+.project
+*.log
+*.log.lck
+*.log.*
+*.csv
+src/main/resources/case/batch/*
+*.back
+.DS_Store
